@@ -1,12 +1,12 @@
 <h1 align="left">Hello World!</h1>
 
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jvb3YzY283aTlwNzNrZzNpeTZiMm9pdXViOGRka2YzdW9sbTEybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif"  />
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jvb3YzY283aTlwNzNrZzNpeTZiMm9pdXViOGRka2YzdW9sbTEybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif"  />
 
-<p align="left">My name is Ryan. I'm a full-stack software engineer from Florida who enjoys tinkering with technology and has a passion for developing user-friendly web applications for complex business processes.</p>
+My name is Ryan. I'm a full-stack software engineer from Florida who enjoys tinkering with technology and has a passion for developing user-friendly web applications for complex business processes.
 
-<p align="left">✨ Started coding around 2007
-<br>📚 Earned a Bachelor's Degree in Computer Information Systems in 2024
-<br>🎯 Aiming to make my name in the Laravel community by developing software that businesses love</p>
+:sparkles: Started coding around 2007\
+:books: Earned a Bachelor's Degree in Computer Information Systems in 2024\
+:bullseye: Aiming to make my name in the Laravel community by developing software that businesses love
 
 &nbsp;
 
@@ -188,4 +188,4 @@
 
 &nbsp;
 
-_Created using the [Profile Readme Generator](https://profile-readme-generator.com/) by [Mauro de Souza](https://github.com/maurodesouza)_
+_Profile Readme created using the [Profile Readme Generator](https://profile-readme-generator.com/) by [Mauro de Souza](https://github.com/maurodesouza)_
