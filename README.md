@@ -6,7 +6,7 @@ My name is Ryan. I'm a full-stack software engineer from Florida who enjoys tink
 
 :sparkles: Started coding around 2007\
 :books: Earned a Bachelor's Degree in Computer Information Systems in 2024\
-:bullseye: Aiming to make my name in the Laravel community by developing software that businesses love
+:dart: Aiming to make my name in the Laravel community by developing software that businesses love
 
 &nbsp;
 
